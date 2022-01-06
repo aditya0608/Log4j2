@@ -1,0 +1,632 @@
+12:17:09.256 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:09.258 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:09.259 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:09.260 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:10.265 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:10.266 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:10.266 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:10.266 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:11.274 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:11.276 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:11.277 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:11.277 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:12.282 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:12.282 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:12.282 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:12.283 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:13.294 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:13.294 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:13.294 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:13.295 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:14.304 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:14.304 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:14.304 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:14.304 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:15.309 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:15.309 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:15.309 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:15.309 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:16.317 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:16.319 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:16.320 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:16.320 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:17.327 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:17.327 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:17.328 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:17.329 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:18.335 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:18.335 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:18.335 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:18.336 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:19.342 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:19.342 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:19.342 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:19.342 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:20.350 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:20.351 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:20.351 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:20.351 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:21.352 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:21.353 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:21.353 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:21.354 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:22.360 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:22.361 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:22.361 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:22.361 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:23.367 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:23.368 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:23.368 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:23.368 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:24.376 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:24.376 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:24.376 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:24.377 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:25.384 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:25.385 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:25.386 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:25.386 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:26.395 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:26.395 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:26.396 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:26.396 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:27.404 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:27.405 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:27.405 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:27.406 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:28.412 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:28.412 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:28.412 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:28.413 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:29.417 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:29.418 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:29.418 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:29.418 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:30.424 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:30.424 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:30.424 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:30.424 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:31.434 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:31.435 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:31.435 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:31.435 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:32.439 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:32.439 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:32.440 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:32.440 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:33.446 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:33.446 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:33.446 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:33.446 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:34.453 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:34.454 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:34.454 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:34.454 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:35.464 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:35.465 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:35.465 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:35.466 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:36.474 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:36.474 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:36.474 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:36.475 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:37.480 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:37.481 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:37.481 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:37.481 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:38.487 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:38.487 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:38.487 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:38.488 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:39.490 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:39.490 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:39.491 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:39.491 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:40.499 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:40.500 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:40.500 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:40.500 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:41.511 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:41.511 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:41.511 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:41.511 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:42.514 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:42.515 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:42.515 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:42.515 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:43.524 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:43.524 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:43.525 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:43.525 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:44.530 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:44.530 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:44.537 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:44.537 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:45.539 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:45.539 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:45.540 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:45.540 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:46.550 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:46.550 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:46.550 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:46.550 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:47.556 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:47.557 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:47.557 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:47.557 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:48.560 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:48.561 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:48.561 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:48.561 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:49.571 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:49.571 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:49.571 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:49.571 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:50.577 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:50.577 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:50.578 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:50.578 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:51.588 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:51.588 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:51.588 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:51.589 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:52.599 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:52.599 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:52.599 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:52.599 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:53.603 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:53.603 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:53.604 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:53.604 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:54.612 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:54.612 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:54.612 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:54.612 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:55.621 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:55.621 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:55.621 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:55.621 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:56.631 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:56.631 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:56.631 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:56.631 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:57.639 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:57.640 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:57.640 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:57.640 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:58.641 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:58.641 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:58.641 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:58.643 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:17:59.656 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:59.656 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:17:59.656 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:17:59.656 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:00.660 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:00.661 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:00.661 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:00.661 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:01.674 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:01.675 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:01.675 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:01.675 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:02.687 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:02.688 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:02.688 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:02.688 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:03.695 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:03.695 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:03.695 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:03.695 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:04.703 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:04.703 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:04.703 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:04.703 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:05.706 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:05.706 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:05.706 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:05.707 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:06.712 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:06.713 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:06.713 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:06.714 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:07.717 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:07.718 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:07.718 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:07.718 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:08.725 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:08.726 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:08.726 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:08.726 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:09.734 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:09.735 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:09.735 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:09.736 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:10.745 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:10.745 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:10.745 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:10.745 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:11.753 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:11.753 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:11.753 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:11.754 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:12.767 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:12.768 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:12.769 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:12.769 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:13.777 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:13.778 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:13.778 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:13.778 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:14.789 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:14.789 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:14.789 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:14.789 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:15.793 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:15.794 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:15.794 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:15.794 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:16.805 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:16.805 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:16.806 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:16.806 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:17.812 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:17.812 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:17.813 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:17.813 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:18.821 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:18.821 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:18.821 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:18.822 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:19.826 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:19.827 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:19.828 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:19.831 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:20.832 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:20.833 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:20.833 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:20.833 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:21.844 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:21.844 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:21.844 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:21.844 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:22.849 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:22.849 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:22.849 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:22.849 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:23.853 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:23.853 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:23.853 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:23.853 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:24.864 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:24.864 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:24.864 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:24.864 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:25.871 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:25.871 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:25.872 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:25.872 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:26.877 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:26.877 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:26.877 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:26.877 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:27.878 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:27.879 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:27.879 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:27.879 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:28.885 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:28.885 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:28.885 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:28.885 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:29.895 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:29.896 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:29.896 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:29.896 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:30.909 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:30.910 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:30.910 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:30.910 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:31.912 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:31.912 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:31.912 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:31.912 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:32.921 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:32.922 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:32.922 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:32.922 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:33.928 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:33.929 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:33.929 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:33.929 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:34.933 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:34.933 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:34.933 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:34.933 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:35.937 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:35.937 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:35.937 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:35.937 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:36.947 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:36.947 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:36.948 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:36.948 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:37.960 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:37.960 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:37.961 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:37.962 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:38.968 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:38.968 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:38.968 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:38.968 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:39.971 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:39.972 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:39.972 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:39.972 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:40.975 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:40.975 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:40.975 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:40.976 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:41.984 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:41.984 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:41.984 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:41.984 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:42.999 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:42.999 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:42.999 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:42.999 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:44.012 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:44.012 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:44.013 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:44.013 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:45.019 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:45.020 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:45.020 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:45.020 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:46.029 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:46.029 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:46.029 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:46.030 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:47.036 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:47.036 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:47.037 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:47.037 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:48.046 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:48.047 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:48.047 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:48.047 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:49.054 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:49.054 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:49.054 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:49.054 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:50.058 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:50.058 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:50.058 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:50.058 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:51.065 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:51.065 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:51.066 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:51.066 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:52.075 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:52.075 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:52.075 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:52.075 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:53.085 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:53.086 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:53.086 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:53.086 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:54.095 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:54.095 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:54.095 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:54.096 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:55.102 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:55.102 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:55.102 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:55.102 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:56.113 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:56.113 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:56.113 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:56.113 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:57.120 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:57.120 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:57.120 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:57.120 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:58.127 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:58.127 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:58.127 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:58.127 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:18:59.137 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:59.137 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:18:59.137 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:18:59.137 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:00.148 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:00.148 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:00.148 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:00.148 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:01.156 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:01.156 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:01.156 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:01.156 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:02.165 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:02.166 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:02.166 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:02.166 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:03.172 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:03.172 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:03.172 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:03.172 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:04.178 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:04.178 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:04.178 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:04.178 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:05.188 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:05.188 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:05.189 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:05.189 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:06.194 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:06.194 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:06.194 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:06.195 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:07.202 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:07.202 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:07.202 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:07.202 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:08.215 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:08.216 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:08.216 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:08.216 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:09.219 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:09.219 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:09.220 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:09.220 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:10.231 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:10.232 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:10.232 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:10.232 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:11.241 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:11.241 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:11.241 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:11.241 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:12.253 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:12.254 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:12.254 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:12.254 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:13.261 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:13.262 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:13.262 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:13.262 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:14.270 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:14.271 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:14.271 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:14.271 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:15.275 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:15.275 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:15.275 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:15.275 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:16.284 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:16.284 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:16.284 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:16.284 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:17.293 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:17.293 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:17.293 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:17.293 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:18.303 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:18.303 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:18.303 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:18.303 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:19.311 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:19.311 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:19.311 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:19.311 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:19:20.316 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:20.316 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:19:20.316 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:19:20.316 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:20:56.584 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:56.585 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:56.585 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:20:56.585 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:20:57.601 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:57.601 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:57.601 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:20:57.601 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:20:58.609 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:58.611 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:58.611 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:20:58.612 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:20:59.619 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:59.620 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:20:59.620 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:20:59.620 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:00.631 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:00.632 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:00.632 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:00.633 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:01.639 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:01.639 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:01.639 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:01.640 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:02.641 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:02.642 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:02.642 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:02.643 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:03.646 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:03.646 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:03.646 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:03.646 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:04.652 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:04.653 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:04.653 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:04.654 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:05.661 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:05.661 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:05.662 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:05.662 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:06.670 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:06.670 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:06.671 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:06.671 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:07.673 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:07.673 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:07.674 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:07.674 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:08.682 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:08.682 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:08.682 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:08.682 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:09.695 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:09.696 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:09.696 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:09.697 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:10.704 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:10.704 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:10.722 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:10.724 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:11.739 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:11.739 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:11.740 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:11.740 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:12.748 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:12.749 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:12.749 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:12.750 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:13.758 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:13.759 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:13.760 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:13.760 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:14.767 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:14.769 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:14.769 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:14.770 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:15.774 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:15.774 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:15.775 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:15.775 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:16.783 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:16.783 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:16.785 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:16.785 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:17.791 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:17.791 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:17.792 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:17.792 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:18.798 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:18.798 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:18.800 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:18.800 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:19.809 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:19.810 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:19.810 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:19.810 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:20.815 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:20.816 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:20.816 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:20.816 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:21.825 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:21.826 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:21.826 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:21.827 [main] ERROR com.aditya.kafka.Loggers.App - hello
+12:21:22.835 [main] INFO  com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:22.835 [main] DEBUG com.aditya.kafka.Loggers.App - Hello Aditya
+12:21:22.835 [main] WARN  com.aditya.kafka.Loggers.App - Hello
+12:21:22.835 [main] ERROR com.aditya.kafka.Loggers.App - hello
