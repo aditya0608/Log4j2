@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <!-- Simple console logger --> 
+        <Console name="LogToConsole" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger - %msg%n"/>
+        </Console>
+        <File name="LogToFile" fileName="logs/applatest.log">
+            <PatternLayout>
+                <Pattern>%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</Pattern>
+            </PatternLayout>
+        </File>
+<RollingFile
+    name="com.mlit"
+    fileName="Dert.log"
+    filePattern="application.%d{dd-MMM-HH-mm-ss}.log.gz"
+    ignoreExceptions="false">
+    <PatternLayout>
+        <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+    </PatternLayout>
+    <Policies>
+        <OnStartupTriggeringPolicy />
+        <SizeBasedTriggeringPolicy size="2 KB" />
+    </Policies>
+    <DefaultRolloverStrategy max="2" />
+</RollingFile>
+    </Appenders>
+    
+    	
+ 
+    <Loggers>
+        <Logger name="com.aditya.kafka.Loggers" level="debug" additivity="false">
+            <AppenderRef ref="LogToFile"/>
+             <AppenderRef ref="LogToConsole"/>
+             <AppenderRef ref="com.mlit"/>  
+        </Logger>
+        
+        <Root level="INFO">
+            <AppenderRef ref="LogToFile"/>
+            <AppenderRef ref="LogToConsole"/>
+                         <AppenderRef ref="com.mlit"/>
+        </Root>
+    </Loggers>
+</Configuration>
