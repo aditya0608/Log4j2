@@ -1,0 +1,35 @@
+2022-01-06 15:10:40 INFO  Hello Aditya
+2022-01-06 15:10:40 WARN  Hello
+2022-01-06 15:10:40 ERROR hello
+java.lang.Throwable: java.lang.Exception: Aditya excpetion 
+	at com.aditya.kafka.Loggers.App.main(App.java:23) [classes/:?]
+Caused by: java.lang.Exception: Aditya excpetion 
+	... 1 more
+2022-01-06 15:10:41 INFO  Hello Aditya
+2022-01-06 15:10:41 WARN  Hello
+2022-01-06 15:10:41 ERROR hello
+java.lang.Throwable: java.lang.Exception: Aditya excpetion 
+	at com.aditya.kafka.Loggers.App.main(App.java:23) [classes/:?]
+Caused by: java.lang.Exception: Aditya excpetion 
+	... 1 more
+2022-01-06 15:10:42 INFO  Hello Aditya
+2022-01-06 15:10:42 WARN  Hello
+2022-01-06 15:10:42 ERROR hello
+java.lang.Throwable: java.lang.Exception: Aditya excpetion 
+	at com.aditya.kafka.Loggers.App.main(App.java:23) [classes/:?]
+Caused by: java.lang.Exception: Aditya excpetion 
+	... 1 more
+2022-01-06 15:10:43 INFO  Hello Aditya
+2022-01-06 15:10:43 WARN  Hello
+2022-01-06 15:10:43 ERROR hello
+java.lang.Throwable: java.lang.Exception: Aditya excpetion 
+	at com.aditya.kafka.Loggers.App.main(App.java:23) [classes/:?]
+Caused by: java.lang.Exception: Aditya excpetion 
+	... 1 more
+2022-01-06 15:10:44 INFO  Hello Aditya
+2022-01-06 15:10:44 WARN  Hello
+2022-01-06 15:10:44 ERROR hello
+java.lang.Throwable: java.lang.Exception: Aditya excpetion 
+	at com.aditya.kafka.Loggers.App.main(App.java:23) [classes/:?]
+Caused by: java.lang.Exception: Aditya excpetion 
+	... 1 more
